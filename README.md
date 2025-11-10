@@ -3,12 +3,6 @@
 This README explains how to clone/pull this repository and obtain the dataset files
 `dataset/test_images_224.npy` and `dataset/train_images_224.npy` on Windows, macOS and Linux.
 
-Two common ways to distribute large dataset files are shown:
-- Git LFS (recommended for large files stored in the repo via LFS)
-- GitHub Releases (attach large files to a release; good when you want to avoid LFS quotas)
-
-Choose the method that matches how the files were published for this repo.
-
 ---
 
 ## Repository
