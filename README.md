@@ -109,6 +109,9 @@ After running the notebook, you will obtain:
 - **seaborn**: Data visualization
 - **matplotlib**: Plotting and graphics
 
+## Presentation Link
+[link](https://www.canva.com/design/DAG4XKka2M4/S9kzsEczgPcYInYIQgXuAg/view?utm_content=DAG4XKka2M4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8c61eb2ca7)
+
 ## License
 
 This project is created for educational purposes. Please refer to the Kaggle dataset page for dataset licensing information.
