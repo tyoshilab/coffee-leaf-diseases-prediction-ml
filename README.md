@@ -114,7 +114,7 @@ After running the notebook, you will obtain:
 - **matplotlib**: Plotting and graphics
 
 ## Presentation Link
-[link](https://www.canva.com/design/DAG4XKka2M4/S9kzsEczgPcYInYIQgXuAg/view?utm_content=DAG4XKka2M4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8c61eb2ca7)
+[link](https://www.canva.com/design/DAG7VIdj3JU/gUucrDZ4DdDSnQdzOftZZA/view?utm_content=DAG7VIdj3JU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h13b915f254)
 
 ## License
 
